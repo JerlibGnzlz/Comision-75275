@@ -7,7 +7,7 @@ Este documento contiene un índice de todas las clases impartidas.
 
 | #  |   Fecha    |             Tema de la Clase                         | Enlace a la Clase |
 |----|------------|--------------------------------------------|-----------------------------------------|
-| 1  | 2025-02-18 | Principios Básicos de JavaScript y Backend | [Clase 1](https://enlace-a-clase-1.com) |
+| 1  | 2025-02-18 | Principios Básicos de JavaScript y Backend | [Clase 1]([https://enlace-a-clase-1.com](https://github.com/JerlibGnzlz/Comision-75275/blob/main/practica.js)) |
 
 
 ### 🎯 Recursos Útiles
