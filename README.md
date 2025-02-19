@@ -1,7 +1,7 @@
 # 📚 Clases Comision-75275
 
 
-Este documento contiene un índice de todas las clases impartidas.
+Este documento contendra un índice de todas las clases impartidas.
 
 ## 📆 Índice de Clases
 
