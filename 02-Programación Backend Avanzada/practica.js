@@ -1,3 +1,4 @@
+/* ------------------------ DESCOMENTAR TODO LO QUE SE QUIERE PROBAR CADA EJEMPLO ------------------------ */
 
 /* -------------------------------------------------------------------------- */
 // Realizar una lista nueva  (array) que contenga todos los tipos de productos (no cantidades), 
