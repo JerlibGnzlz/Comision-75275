@@ -8,7 +8,7 @@ Este documento contendra un índice de todas las clases impartidas.
 | #  |   Fecha    |             Tema de la Clase                         | Enlace a la Clase |
 |----|------------|--------------------------------------------|-----------------------------------------|
 | 1  | 18/02/2025 | Principios Básicos de JavaScript y Backend | [Clase 1](https://github.com/JerlibGnzlz/Comision-75275/blob/main/01-Principios%20B%C3%A1sicos%20de%20JavaScript%20y%20Backend/practica.js) |
-| 1  | 25/02/2025 | Programación Backend Avanzada              | [Clase 2](https://github.com/JerlibGnzlz/Comision-75275/blob/main/02-Programaci%C3%B3n%20Backend%20Avanzada/practica.js) |
+| 2  | 25/02/2025 | Programación Backend Avanzada              | [Clase 2](https://github.com/JerlibGnzlz/Comision-75275/blob/main/02-Programaci%C3%B3n%20Backend%20Avanzada/practica.js) |
 
 
 ### 🎯 Recursos Útiles
