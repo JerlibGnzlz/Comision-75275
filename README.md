@@ -1,5 +1,6 @@
 # 📚 Clases Comision-75275
 
+![image](https://github.com/user-attachments/assets/d01032b3-1c8d-42e2-80f5-920bdef8d947)
 
 Este documento contendra un índice de todas las clases impartidas.
 
