@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "03-desarrollo-avanzado-de-backend-con-node",
+  "version": "1.0.0",
+  "main": "practica.js",
+  "scripts": {
+    "dev": "node --watch practica.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}

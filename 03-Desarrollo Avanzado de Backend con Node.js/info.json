@@ -1,0 +1,35 @@
+{
+  "objetoInfo": "{\n  \"type\": \"module\",\n  \"name\": \"03-desarrollo-avanzado-de-backend-con-node\",\n  \"version\": \"1.0.0\",\n  \"main\": \"practica.js\",\n  \"scripts\": {\n    \"dev\": \"node --watch practica.js\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"description\": \"\",\n  \"dependencies\": {\n    \"moment\": \"^2.30.1\"\n  }\n}",
+  "contenidoObj": {
+    "type": "module",
+    "name": "03-desarrollo-avanzado-de-backend-con-node",
+    "version": "1.0.0",
+    "main": "practica.js",
+    "scripts": {
+      "dev": "node --watch practica.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "moment": "^2.30.1"
+    }
+  },
+  "size": {
+    "dev": 66305,
+    "mode": 33204,
+    "nlink": 1,
+    "uid": 1000,
+    "gid": 1000,
+    "rdev": 0,
+    "blksize": 4096,
+    "ino": 15487926,
+    "size": 307,
+    "blocks": 8,
+    "atimeMs": 1742344101663.9084,
+    "mtimeMs": 1742344163158.5896,
+    "ctimeMs": 1742344163158.5896,
+    "birthtimeMs": 1742344101663.9084
+  }
+}
