@@ -1,0 +1,19 @@
+{
+  "name": "04-desarrollo-de-backend-avanzado",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "practica.js",
+  "scripts": {
+    "dev": "nodemon practica.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

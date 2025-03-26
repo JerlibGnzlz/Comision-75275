@@ -1,0 +1,74 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "clase4",
+    "collectionId": "afec300a-0943-4558-a182-07318d24d6a6",
+    "dateExported": "2025-03-26T02:16:08.791Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "69644650-5ed7-4828-8ed9-e3fd9775425d",
+            "colId": "afec300a-0943-4558-a182-07318d24d6a6",
+            "containerId": "",
+            "name": "editar palabra",
+            "url": "http://localhost:8080/api/palabra/2",
+            "method": "PUT",
+            "sortNum": 10000,
+            "created": "2025-03-26T02:14:30.073Z",
+            "modified": "2025-03-26T02:14:30.073Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"palabra\":\"actualizado\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "35b8a4b9-b05e-41fb-ae53-8d439556666c",
+            "colId": "afec300a-0943-4558-a182-07318d24d6a6",
+            "containerId": "",
+            "name": "eliminar palabra",
+            "url": "http://localhost:8080/api/palabra/1",
+            "method": "DELETE",
+            "sortNum": 20000,
+            "created": "2025-03-26T02:14:53.337Z",
+            "modified": "2025-03-26T02:15:00.360Z",
+            "headers": []
+        },
+        {
+            "_id": "4694b4bf-34ee-41b4-91c2-01fcaeaf2fb2",
+            "colId": "afec300a-0943-4558-a182-07318d24d6a6",
+            "containerId": "",
+            "name": "obtener la frase",
+            "url": "http://localhost:8080/api/frases",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2025-03-26T02:15:23.524Z",
+            "modified": "2025-03-26T02:15:23.524Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"agregada\":\" put\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "f935b4b9-c85c-4e67-b9d5-1cc26fa27e14",
+            "colId": "afec300a-0943-4558-a182-07318d24d6a6",
+            "containerId": "",
+            "name": "crear una palabra",
+            "url": "http://localhost:8080/api/palabra",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2025-03-26T02:15:43.790Z",
+            "modified": "2025-03-26T02:15:43.790Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"palabra\":\"Agregada\"\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "eY--x1zXm8NM1_GnOFs5fn8fmLuUlN_Ci2uaXyZtgmZV9GY8WeyjLjO6Cik0O83l3ZJI_o04K1hzAsDGA_VjHg"
+}
